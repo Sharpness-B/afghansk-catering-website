@@ -12,3 +12,12 @@ Vi er en familie og et entusiastisk team som brenner for Afghansk mat. Maten vå
 
 ![meny1](bilder/meny1.jfif?raw=true)
 ![meny2](bilder/meny2.jfif?raw=true)
+
+**Ta kontakt for bestilling eller en hyggelig prat**
+
+telefon: 48338049 
+
+epost: matiurahman150@gmail.com
+
+![servering1](bilder/servering1.jpg?raw=true)
+![servering2](bilder/servering2.jpg?raw=true)
