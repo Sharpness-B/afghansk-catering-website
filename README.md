@@ -33,6 +33,7 @@ epost: matiurahman150@gmail.com
 
 
 **Levering av mat**
+
 Vi leverer mat der du måtte ønske når du måtte ønske det; mandag til søndag. Vi har følgende utkjøringstillegg:
 Levering kr 250,- i Stavanger-området.
 kr 300,- i Sandnes, Sola og Randaberg.
@@ -41,11 +42,14 @@ Ta kontakt for nærmere pris og avtale for levering andre steder.
 50% tillegg for utkjøring på søndager.
 
 **Serveringshjelp**
+
 Vi kan være behjelpelig med å bistå med servitører dersom det er ønskelig.
 
 **Allergier**
+
 Vi tilpasser menyene våre til de aller fleste matallergier. Ta gjerne kontakt med oss på telefon eller e-post slik at vi sammen kan avklare behovene dine.
 
 **Betaling**
+
 All henting av mat skjer mot betaling gjennom overføring til bedriftskontoen eller via Vipps til bedriften. 
 Ved levering av mat ettersender vi faktura på e-post.
