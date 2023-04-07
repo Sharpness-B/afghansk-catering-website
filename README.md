@@ -19,6 +19,7 @@ Vi har et tett samarbeid med restauranter og arrangement lokaler i Rogaland.
 **Vi tilbyr også buffet for bedrifter/bryllup og familer**
 
 Buffet for familer: kr 250,- for voksen og kr 150,- for barn
+
 For bedrifter/bryllup: kr 350,- per person for premium buffet og kr 250,- for standard.
 
 **Ta kontakt for bestilling eller en hyggelig prat**
@@ -39,6 +40,7 @@ Levering kr 250,- i Stavanger-området.
 kr 300,- i Sandnes, Sola og Randaberg.
 
 Ta kontakt for nærmere pris og avtale for levering andre steder.
+
 50% tillegg for utkjøring på søndager.
 
 **Serveringshjelp**
