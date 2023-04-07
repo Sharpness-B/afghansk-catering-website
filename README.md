@@ -14,6 +14,13 @@ Vi er en familie og et entusiastisk team som brenner for Afghansk mat. Maten vå
 <img class="image" src="bilder/meny1.jfif?raw=true">
 <img class="image" src="bilder/meny2.jfif?raw=true">
 
+Vi har et tett samarbeid med restauranter og arrangement lokaler i Rogaland.
+
+**Vi tilbyr også buffet for bedrifter/bryllup og familer**
+
+Buffet for familer: kr 250,- for voksen og kr 150,- for barn
+For bedrifter/bryllup: kr 350,- per person for premium buffet og kr 250,- for standard.
+
 **Ta kontakt for bestilling eller en hyggelig prat**
 
 telefon: 48338049 
@@ -22,3 +29,23 @@ epost: matiurahman150@gmail.com
 
 <img class="image" src="bilder/servering1.jpg?raw=true">
 <img class="image" src="bilder/servering2.jpg?raw=true">
+
+
+
+**Levering av mat**
+Vi leverer mat der du måtte ønske når du måtte ønske det; mandag til søndag. Vi har følgende utkjøringstillegg:
+Levering kr 250,- i Stavanger-området.
+kr 300,- i Sandnes, Sola og Randaberg.
+
+Ta kontakt for nærmere pris og avtale for levering andre steder.
+50% tillegg for utkjøring på søndager.
+
+**Serveringshjelp**
+Vi kan være behjelpelig med å bistå med servitører dersom det er ønskelig.
+
+**Allergier**
+Vi tilpasser menyene våre til de aller fleste matallergier. Ta gjerne kontakt med oss på telefon eller e-post slik at vi sammen kan avklare behovene dine.
+
+**Betaling**
+All henting av mat skjer mot betaling gjennom overføring til bedriftskontoen eller via Vipps til bedriften. 
+Ved levering av mat ettersender vi faktura på e-post.
