@@ -15,10 +15,13 @@ Vi er en familie og et entusiastisk team som brenner for Afghansk mat. Maten vå
 <img class="image" src="bilder/meny2.jfif?raw=true">
 
 **Nylig har vi utvidet menyen med kaffe, te og frukt**
+
 Kaffe eller te på kanne (10 kopper) - kr 142,–
+
 kaffe/te, isvann, melk, sukker, servietter og pappkopper - kr 23,– per mindre levering
 
 Frukt oppskåret - kr 35,- per prsj
+
 Fruktfat, oppskåret med twist - kr 41,- per prsj
 
 
@@ -38,8 +41,8 @@ epost: matiurahman150@gmail.com
 <img class="image" src="bilder/servering2.jpg?raw=true">
 
 <img class="image" src="bilder/frukt.jpg?raw=true">
-<img class="image" src="bilder/kaffe.jpg?raw=true">
-<img class="image" src="bilder/te.jpg?raw=true">
+<img class="image_half" src="bilder/kaffe.jpg?raw=true">
+<img class="image_half" src="bilder/te.jpg?raw=true">
 
 
 
