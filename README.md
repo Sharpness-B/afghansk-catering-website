@@ -14,9 +14,15 @@ Vi er en familie og et entusiastisk team som brenner for Afghansk mat. Maten vå
 <img class="image" src="bilder/meny1.jfif?raw=true">
 <img class="image" src="bilder/meny2.jfif?raw=true">
 
-Vi har et tett samarbeid med restauranter og arrangement lokaler i Rogaland.
+**Nylig har vi utvidet menyen med kaffe, te og frukt**
+Kaffe eller te på kanne (10 kopper) - kr 142,–
+kaffe/te, isvann, melk, sukker, servietter og pappkopper - kr 23,– per mindre levering
 
-**Vi tilbyr også buffet for bedrifter/bryllup og familer**
+Frukt oppskåret - kr 35,- per prsj
+Fruktfat, oppskåret med twist - kr 41,- per prsj
+
+
+**Vi tilbyr også buffet for bedrifter/bryllup og familer, og samarbeider tett med med restauranter og ulike lokaler i Rogaland**
 
 Buffet for familer: kr 250,- for voksen og kr 150,- for barn
 
@@ -30,6 +36,10 @@ epost: matiurahman150@gmail.com
 
 <img class="image" src="bilder/servering1.jpg?raw=true">
 <img class="image" src="bilder/servering2.jpg?raw=true">
+
+<img class="image" src="bilder/frukt.jpg?raw=true">
+<img class="image" src="bilder/kaffe.jpg?raw=true">
+<img class="image" src="bilder/te?raw=true">
 
 
 
@@ -50,6 +60,8 @@ Vi kan være behjelpelig med å bistå med servitører dersom det er ønskelig.
 **Allergier**
 
 Vi tilpasser menyene våre til de aller fleste matallergier. Ta gjerne kontakt med oss på telefon eller e-post slik at vi sammen kan avklare behovene dine.
+
+Frukt med twist: bygg, melk, egg, mandel, hasselnøt, peanøtt og soye.
 
 **Betaling**
 
