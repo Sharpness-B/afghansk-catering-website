@@ -41,9 +41,8 @@ epost: matiurahman150@gmail.com
 <img class="image" src="bilder/servering2.jpg?raw=true">
 
 <img class="image" src="bilder/frukt.jpg?raw=true">
-<img class="image_half" src="bilder/kaffe.jpg?raw=true">
+<img class="image_half left" src="bilder/kaffe.jpg?raw=true">
 <img class="image_half" src="bilder/te.jpg?raw=true">
-<br />
 
 **Levering av mat**
 
