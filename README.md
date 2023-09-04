@@ -17,7 +17,7 @@ Vi legger til 15 % mva på prisen i tillegg til den prisen som står på menyen.
 
 **Nylig har vi utvidet menyen med kaffe, te og frukt**
 
-Kaffe eller te på kanne (10 kopper) - kr 142,–
+Kaffe eller melk-te på kanne (10 kopper) - kr 142,–
 
 kaffe/te, isvann, melk, sukker, servietter og pappkopper - kr 23,– per mindre levering
 
@@ -28,13 +28,13 @@ Fruktfat, oppskåret med twist - kr 41,- per prsj
 
 **Vi tilbyr også buffet for bedrifter/bryllup og familer, og samarbeider tett med med restauranter og ulike lokaler i Rogaland**
 
-Buffet for familer: kr 250,- for voksen og kr 150,- for barn
+Buffet for familer: kr 250,- +mva for voksen og kr 150,- +mva for barn
 
-For bedrifter/bryllup: kr 350,- per person for premium buffet og kr 250,- for standard.
+For bedrifter/bryllup: kr 350,- +mva per person for premium buffet og kr 250,- +mva for standard.
 
 **Ta kontakt for bestilling eller en hyggelig prat**
 
-telefon: 48338049 
+telefon: +4748338049 
 
 epost: matiurahman150@gmail.com
 
