@@ -13,6 +13,7 @@ Vi er en familie og et entusiastisk team som brenner for Afghansk mat. Maten vå
 <img class="image" src="bilder/logo.jpg?raw=true">
 <img class="image" src="bilder/meny1.jfif?raw=true">
 <img class="image" src="bilder/meny2.jfif?raw=true">
+Vi legger til 15 % mva på prisen i tillegg til den prisen som står på menyen. Dette skyldes økningen i prisen på matvarer. 
 
 **Nylig har vi utvidet menyen med kaffe, te og frukt**
 
