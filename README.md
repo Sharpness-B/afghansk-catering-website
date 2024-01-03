@@ -22,7 +22,7 @@ Grønnsakskurv inkludert levering: kr 300,-
 <img class="image" src="bilder/logo.jpg?raw=true">
 <img class="image" src="bilder/meny1.jfif?raw=true">
 <img class="image" src="bilder/meny2.jfif?raw=true">
-Vi legger til 15 % mva på prisen i tillegg til den prisen som står på menyen. Dette skyldes økningen i prisen på matvarer. 
+Vi legger til 15 % mva på prisen i tillegg til den prisen som står på menyen. Dette skyldes økningen i prisen på matvarer.
 
 **Nylig har vi utvidet menyen med kaffe, te og frukt**
 
