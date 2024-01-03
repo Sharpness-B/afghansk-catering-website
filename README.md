@@ -37,9 +37,9 @@ Fruktfat, oppskåret med twist - kr 41,- per prsj
 
 **Vi tilbyr også buffet for bedrifter/bryllup og familer, og samarbeider tett med med restauranter og ulike lokaler i Rogaland**
 
-Buffet for familer: kr 250,- +mva for voksen og kr 150,- +mva for barn
+Buffet for familer: kr 250,- + mva for voksen og kr 150,- +mva for barn
 
-For bedrifter/bryllup: kr 350,- +mva per person for premium buffet og kr 250,- +mva for standard.
+For bedrifter/bryllup: kr 350,- + mva per person for premium buffet og kr 250,- +mva for standard.
 
 **Ta kontakt for bestilling eller en hyggelig prat**
 
